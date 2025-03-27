@@ -6,5 +6,7 @@ class Main{
         System.out.println("output changed from this");
         System.out.println(new Date());
         System.out.println("Wow this is working");
+    Student st = new Student();
+    st.sayHi();
     }
 }
